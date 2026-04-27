@@ -1,0 +1,758 @@
+[
+    {
+        "riddle": "Quando è fresco, è caldo. Cos’è?",
+        "answer": "Il pane."
+    },
+    {
+        "riddle": "Si spoglia quando fa freddo. Cos’è?",
+        "answer": "L’albero."
+    },
+    {
+        "riddle": "Più è presente e meno lo vedi. Cos’è?",
+        "answer": "Il buio."
+    },
+    {
+        "riddle": "Quando balla cade. Cos’è?",
+        "answer": "Il dente."
+    },
+    {
+        "riddle": "È grande come un grattacielo, ma infinitamente più leggero. Cos’è?",
+        "answer": "La sua ombra."
+    },
+    {
+        "riddle": "Se non è ben chiuso, perde. Cos’è?",
+        "answer": "Il rubinetto."
+    },
+    {
+        "riddle": "Una volta scoperto non esiste più. Cos’è?",
+        "answer": "Un segreto."
+    },
+    {
+        "riddle": "Qual era la più grande isola del mondo, prima che venisse scoperta l’Australia?",
+        "answer": "L’Australia. Anche se non era stata scoperta era comunque la più grande."
+    },
+    {
+        "riddle": "Ho qualcosa nella tasca, ma la tasca è vuota. Cos’è?",
+        "answer": "Un buco."
+    },
+    {
+        "riddle": "Senza testa sono più alto, con la testa sono più basso. Chi sono?",
+        "answer": "Il cuscino."
+    },
+    {
+        "riddle": "Si può prendere, ma non gettare. Cos’è?",
+        "answer": "Il raffreddore."
+    },
+    {
+        "riddle": "Quale imperatore portava la corona più grande?",
+        "answer": "Quello con la testa più grande."
+    },
+    {
+        "riddle": "Valgo più di una parola, chi mi nomina mi viola. Chi sono?",
+        "answer": "Il silenzio."
+    },
+    {
+        "riddle": "Sto su una strada e mi imboccano senza cucchiaio. Chi sono?",
+        "answer": "La galleria."
+    },
+    {
+        "riddle": "Se stai sopra di me sembro ferma, ma se ti allontani mi vedi girare come una trottola. Chi sono?",
+        "answer": "La Terra."
+    },
+    {
+        "riddle": "Si sposta nell’aria ma non è un uccello, vive in acqua ma non è un pesce. Chi è?",
+        "answer": "La rana."
+    },
+    {
+        "riddle": "Si può fare tra due uomini, tra un uomo e una donna ma non tra due donne. Cos’è?",
+        "answer": "La confessione."
+    },
+    {
+        "riddle": "Si saluta quando si alza. Cos’è?",
+        "answer": "La bandiera."
+    },
+    {
+        "riddle": "Quando passa lui ti devi togliere il cappello. Chi è?",
+        "answer": "Il pettine."
+    },
+    {
+        "riddle": "Non fa domande, ma aspetta una risposta. Cos’è?",
+        "answer": "Il telefono."
+    },
+    {
+        "riddle": "Cosa serve per sedersi, per dormire e per lavarsi i denti?",
+        "answer": "Una sedia, un letto e uno spazzolino. Perché cercare una cosa sola?."
+    },
+    {
+        "riddle": "Cade sempre dalle nuvole. Cos’è?",
+        "answer": "La pioggia."
+    },
+    {
+        "riddle": "Esiste da milioni di anni, ma è nuova ogni mese. Cos’è?",
+        "answer": "La luna."
+    },
+    {
+        "riddle": "Ha un collo, ma non la testa. Cos’è?",
+        "answer": "La bottiglia."
+    },
+    {
+        "riddle": "Ha la vita appesa a un filo e lavora per un pugno di mosche. Chi è?",
+        "answer": "Il ragno."
+    },
+    {
+        "riddle": "Ha le braccia ma non le mani, ha il collo ma non la testa. Chi sono?",
+        "answer": "La camicia."
+    },
+    {
+        "riddle": "Ha una coda, ma non può assolutamente muoverla. Chi è?",
+        "answer": "Il pianoforte."
+    },
+    {
+        "riddle": "Ho tanti anelli, ma non mi sono mai sposata. Chi sono?",
+        "answer": "Una catena."
+    },
+    {
+        "riddle": "Ha la radice, ma non è una pianta. Cos’è?",
+        "answer": "Il dente."
+    },
+    {
+        "riddle": "Ha una tasca, ma nessun indumento. Chi è?",
+        "answer": "Il canguro."
+    },
+    {
+        "riddle": "Dov’è che giovedì viene prima di mercoledì?",
+        "answer": "Nel dizionario."
+    },
+    {
+        "riddle": "Ho una testa ma non ho un corpo, ho una croce ma non ho braccia. Chi sono?",
+        "answer": "La moneta."
+    },
+    {
+        "riddle": "Ha i denti, ma non morde. Cos’è?",
+        "answer": "Il pettine."
+    },
+    {
+        "riddle": "È stato domani e sarà ieri. Chi è?",
+        "answer": "L’oggi."
+    },
+    {
+        "riddle": "Ha un letto, ma non ci dorme. Cos’è?",
+        "answer": "Il fiume."
+    },
+    {
+        "riddle": "Se pronunci il suo nome, sparisce. Che cosa è?",
+        "answer": "Il silenzio."
+    },
+    {
+        "riddle": "Quando scende, aumenta. Cos’è?",
+        "answer": "La nebbia."
+    },
+    {
+        "riddle": "Di notte vengono senza essere chiamate e di giorno se ne vanno senza essere rubate. Cosa sono?",
+        "answer": "Le stelle."
+    },
+    {
+        "riddle": "Esisto fino a quando hai vita, ma se mi perdi è finita. Chi sono?",
+        "answer": "La speranza."
+    },
+    {
+        "riddle": "Ha il collo, ma non la testa. Chi è?",
+        "answer": "Il piede."
+    },
+    {
+        "riddle": "In mezzo al prato fanno colore, in casa, in un bel vaso, danno buon odore. Chi sono?",
+        "answer": "I fiori."
+    },
+    {
+        "riddle": "Le attendiamo con impazienza e, quando arrivano, partiamo. Cosa sono?",
+        "answer": "Le vacanze."
+    },
+    {
+        "riddle": "La puoi vedere, ma non la puoi toccare. Cos’è?",
+        "answer": "L’ombra."
+    },
+    {
+        "riddle": "Inutile discutere, ho sempre l’ultima parola. Chi sono?",
+        "answer": "L’eco."
+    },
+    {
+        "riddle": "Quale città ha tre facce?",
+        "answer": "Treviso."
+    },
+    {
+        "riddle": "La butti a terra e non si rompe, la butti nell’acqua e si rompe. Cos’è?",
+        "answer": "La carta."
+    },
+    {
+        "riddle": "La prendi quando la dai. Cos’è?",
+        "answer": "La mano."
+    },
+    {
+        "riddle": "È una stella, ma non splende. Cos’è?",
+        "answer": "La stella marina."
+    },
+    {
+        "riddle": "Sa tante cose ma non sa parlare, ha tante ali ma non può volare. Cos’è?",
+        "answer": "Il libro."
+    },
+    {
+        "riddle": "Chi ci nasce è fortunato. Cos’è?",
+        "answer": "La camicia."
+    },
+    {
+        "riddle": "Su un ramo ci sono dieci uccellini. Un cacciatore spara e ne colpisce uno. Quanti  uccellini restano sul ramo?",
+        "answer": "Nessuno, perché i nove rimasti volano via."
+    },
+    {
+        "riddle": "Contiene dello zucchero, ma non è dolce. Cos’è?",
+        "answer": "La zuccheriera."
+    },
+    {
+        "riddle": "Canta quando tutti dormono. Chi è?",
+        "answer": "Il gallo."
+    },
+    {
+        "riddle": "Più è nera, più è pulita. Cos’è?",
+        "answer": "La lavagna."
+    },
+    {
+        "riddle": "Quando uno arriva, l’altro se ne va. chi siamo?",
+        "answer": "I giorni."
+    },
+    {
+        "riddle": "Nasco grande e muoio piccola. Chi sono?",
+        "answer": "La candela."
+    },
+    {
+        "riddle": "Non esiste cruda, solo cotta, ma non si mangia. Cos’è?",
+        "answer": "La cenere."
+    },
+    {
+        "riddle": "Non hanno lancette, ma fanno rumore col passare delle ore. Cosa sono?",
+        "answer": "Le campane."
+    },
+    {
+        "riddle": "Non hanno carne, né piume, né peli, né ossa, eppure hanno le dita. Cosa sono?",
+        "answer": "I guanti."
+    },
+    {
+        "riddle": "Non ha prurito, però si gratta. Chi è?",
+        "answer": "Il formaggio."
+    },
+    {
+        "riddle": "Non peso nulla, ma mi puoi vedere. Chi sono?",
+        "answer": "Un buco."
+    },
+    {
+        "riddle": "Non posso né sentire né parlare, ma dico sempre la verità. Chi sono?",
+        "answer": "Lo specchio."
+    },
+    {
+        "riddle": "Non si spiega se non c’è vento. Cos’è?",
+        "answer": "La vela."
+    },
+    {
+        "riddle": "Non si vede e non si tocca, ma esce sempre dalla bocca. Cos’è?",
+        "answer": "La parola."
+    },
+    {
+        "riddle": "Non sono un uccello e non so cinguettare, ma se muovo la coda posso volare. Chi sono?",
+        "answer": "L’aquilone."
+    },
+    {
+        "riddle": "Il topo mangia il formaggio, il gatto mangia il topo. Chi resta?",
+        "answer": "Il gatto."
+    },
+    {
+        "riddle": "Qual è l’animale che sopravvisse pur restando fuori dall’arca di Noè?",
+        "answer": "Il pesce."
+    },
+    {
+        "riddle": "Vede bene anche senza guardare, sia di giorno che di notte. Chi è?",
+        "answer": "Il pipistrello."
+    },
+    {
+        "riddle": "Passa attraverso un vetro senza romperlo. Cos’è?",
+        "answer": "La luce."
+    },
+    {
+        "riddle": "Ha due ali, ma non è un uccello. Cos’è?",
+        "answer": "L’aeroplano."
+    },
+    {
+        "riddle": "Sono davanti a te, ma non mi vedi mai. Chi sono?",
+        "answer": "L’avvenire."
+    },
+    {
+        "riddle": "Entra solo se le giri la testa. Che cos’è?",
+        "answer": "La vite."
+    },
+    {
+        "riddle": "Se tieni gli occhi chiusi, ti viene a trovare. Cos’è?",
+        "answer": "Il sonno."
+    },
+    {
+        "riddle": "La scarti anche se non è cattiva. Cos’è?",
+        "answer": "La caramella."
+    },
+    {
+        "riddle": "Può essere corretto, anche se è fatto bene. Cos’è?",
+        "answer": "Il caffè."
+    },
+    {
+        "riddle": "Tutti riescono ad aprirlo, ma nessuno sa richiuderlo. Cos’è?",
+        "answer": "L’uovo."
+    },
+    {
+        "riddle": "Quando sono in piedi loro sono sdraiati, quando sono sdraiato loro sono in piedi. Chi sono?",
+        "answer": "I piedi."
+    },
+    {
+        "riddle": "Ha quattro gambe, ma non può camminare. Cos’è?",
+        "answer": "Il tavolino."
+    },
+    {
+        "riddle": "Mette i denti tra i tuoi denti. Cos’è?",
+        "answer": "La forchetta."
+    },
+    {
+        "riddle": "È ovunque, ma non lo puoi raggiungere. Cos’è?",
+        "answer": "L’orizzonte."
+    },
+    {
+        "riddle": "È riparata, ma è sempre bagnata. Cos’è?",
+        "answer": "La lingua."
+    },
+    {
+        "riddle": "È tuo ma lo usano più gli altri. Cos’è?",
+        "answer": "Il nome."
+    },
+    {
+        "riddle": "La butti quando la devi usare e la riprendi quando non ti serve più. Cos’è?",
+        "answer": "L’àncora."
+    },
+    {
+        "riddle": "È piccolo, di legno e se lo strofini si accende. Cos’è?",
+        "answer": "Il fiammifero."
+    },
+    {
+        "riddle": "Nel mio orto c’è una mela con la Z. Cos’è?",
+        "answer": "La melanzana."
+    },
+    {
+        "riddle": "Quando non c’è speriamo non arrivi, ma quando c’è non la vogliamo perdere. Cos’è?",
+        "answer": "La guerra."
+    },
+    {
+        "riddle": "Quando si alza non fa alcun rumore, ma sveglia tutti. Chi è?",
+        "answer": "Il Sole."
+    },
+    {
+        "riddle": "Ogni volta che salta si abbassa. Chi è?",
+        "answer": "Il fantino."
+    },
+    {
+        "riddle": "Non sono uomini, non sono donne, ma portano i pantaloni e anche le gonne. Cosa sono?",
+        "answer": "Gli attaccapanni."
+    },
+    {
+        "riddle": "Non è acqua di mare, né di fonte, non sta in cielo, ma soltanto sulla fronte. Cos’è?",
+        "answer": "Il sudore."
+    },
+    {
+        "riddle": "Passa la vita tra rose e fiori, mille profumi, mille colori. Chi è?",
+        "answer": "Il giardiniere."
+    },
+    {
+        "riddle": "O in due, o in quattro, o in otto lungo le strade filiamo, per tutta la vita ci rincorriamo, ma mai ci raggiungiamo. Chi siamo?",
+        "answer": "Le ruote."
+    },
+    {
+        "riddle": "Non sto in piedi, né diritto, se mi rompi sono fritto. Chi sono?",
+        "answer": "L’uovo."
+    },
+    {
+        "riddle": "Perché i libri di matematica sono sempre tristi?",
+        "answer": "Perché hanno tanti problemi."
+    },
+    {
+        "riddle": "Pesa di più mezzo pollo vivo o mezzo pollo morto?",
+        "answer": "Non esiste un mezzo pollo vivo."
+    },
+    {
+        "riddle": "Più invecchi e più diventa luminosa. Cos’è?",
+        "answer": "La torta di compleanno."
+    },
+    {
+        "riddle": "C’è nella rugiada, e anche nella brina",
+        "answer": " però, manca nella pioggia. Cos’è?"
+    },
+    {
+        "riddle": "Più ne metti e più il peso diminuisce. Cosa sono?",
+        "answer": "I buchi."
+    },
+    {
+        "riddle": "Quasi tutti ne hanno bisogno, lo chiedono e lo danno. Ma quasi nessuno lo segue.",
+        "answer": "consiglio"
+    },
+    {
+        "riddle": "Sale sempre ma non scende mai. Che cos'è?",
+        "answer": "età"
+    },
+    {
+        "riddle": "Muori senza di me, ma non mi ringrazierai mai. Mi attraversi senza sentirmi. Sempre presente, mai visibile.",
+        "answer": "aria"
+    },
+    {
+        "riddle": "Oggi è lì per farti inciampare, domani per torturarti. Ma è anche lì per alleviare il dolore quando sei perso nel dolore e nella tristezza.",
+        "answer": "alcol"
+    },
+    {
+        "riddle": "Volo nell'aria su piccole ali piumate, cercando la vita e distruggendo ogni cosa.",
+        "answer": "freccia"
+    },
+    {
+        "riddle": "Un guerriero tra i fiori, porta una spada affilata. La usa quando deve, per difendere il suo tesoro dorato.",
+        "answer": "ape"
+    },
+    {
+        "riddle": "Migliaia accumulano oro in questa casa, ma nessun uomo l'ha costruita. Lance innumerevoli la proteggono, ma nessun uomo la sorveglia.",
+        "answer": "alveare"
+    },
+    {
+        "riddle": "Rotonda come un bottone, profonda come un pozzo. Se vuoi che parli, devi prima tirarmi la coda.",
+        "answer": "campana"
+    },
+    {
+        "riddle": "Ne ricevi tanti, ma mai abbastanza. Dopo l'ultimo, la tua vita finirà presto. Ne hai uno all'anno, e quando l'ultimo se ne va, la tua vita svanisce.",
+        "answer": "compleanno"
+    },
+    {
+        "riddle": "Due fratelli siamo, grandi pesi portiamo. Tutto il giorno amaramente schiacciati. Eppure vi dirò: siamo pieni tutto il giorno e vuoti quando andiamo a riposare.",
+        "answer": "stivali"
+    },
+    {
+        "riddle": "Leggero come una piuma, ma nessun uomo riesce a tenermi per più di cinque minuti.",
+        "answer": "respiro"
+    },
+    {
+        "riddle": "Per attraversare l'acqua sono la via, sull'acqua mi trovo. Non la tocco, e a dire il vero, non nuoto né mi muovo.",
+        "answer": "ponte"
+    },
+    {
+        "riddle": "Per tutta la casa, con la sua signora danza, eppure lavora sempre e non fa mai la corte.",
+        "answer": "scopa"
+    },
+    {
+        "riddle": "Piatto come una foglia, rotondo come un anello. Ha due occhi ma non vede niente.",
+        "answer": "bottone"
+    },
+    {
+        "riddle": "Per quanto poco o molto mi usi, mi cambi ogni mese.",
+        "answer": "calendario"
+    },
+    {
+        "riddle": "Ho un occhio solo. Vedo vicino e lontano. Custodisco i momenti che ami e le cose che ti fanno piangere.",
+        "answer": "macchina fotografica"
+    },
+    {
+        "riddle": "Ha tredici cuori ma nessuno batte. Che cos'è?",
+        "answer": "mazzo di carte"
+    },
+    {
+        "riddle": "Ho gambe ma non cammino, una schiena forte ma non lavoro. Due buone braccia ma non afferro. Un sedile ma non mi siedo mai.",
+        "answer": "sedia"
+    },
+    {
+        "riddle": "Nero quando lo prendi, rosso quando lo usi, bianco quando hai finito. Che cos'è?",
+        "answer": "carbone"
+    },
+    {
+        "riddle": "Porto un vestito rosso, con un bastone in mano e un sasso in gola.",
+        "answer": "ciliegia"
+    },
+    {
+        "riddle": "Una lenta e solenne danza di guerrieri che fintano. Uno a uno cadono, guerrieri che svengono, trentadue su sessantaquattro.",
+        "answer": "scacchi"
+    },
+    {
+        "riddle": "Che cos'è quella cosa che, se te ne danno una, ne avrai o due o nessuna?",
+        "answer": "scelta"
+    },
+    {
+        "riddle": "Ho una faccia, ma nessun senso. Non m'importa davvero, perché il tempo è essenziale.",
+        "answer": "orologio"
+    },
+    {
+        "riddle": "Volo eppure non ho ali. Piango eppure non ho occhi. L'oscurità mi segue. La luce bassa non la vedo mai.",
+        "answer": "nuvola"
+    },
+    {
+        "riddle": "Chi l'ha fatta non ne aveva bisogno. Chi l'ha comprata non l'ha usata. Chi l'ha usata non la voleva.",
+        "answer": "bara"
+    },
+    {
+        "riddle": "Sono così semplice che posso solo indicare. Eppure guido gli uomini in tutto il mondo.",
+        "answer": "bussola"
+    },
+    {
+        "riddle": "Butti via l'esterno e cucini l'interno. Poi mangi l'esterno e butti via l'interno. Che cos'hai mangiato?",
+        "answer": "pannocchia"
+    },
+    {
+        "riddle": "Alcuni cercano di nascondersi, altri cercano di imbrogliare. Ma il tempo mostrerà che ci incontreremo sempre. Per quanto tu ci provi, a indovinare il mio nome, ti prometto che lo saprai quando ti verrò a prendere.",
+        "answer": "morte"
+    },
+    {
+        "riddle": "Scavo piccole caverne e vi ripongo oro e argento. Costruisco ponti d'argento e faccio corone d'oro, le più piccole che si possano immaginare. Prima o poi tutti hanno bisogno del mio aiuto, eppure molti hanno paura di farmeli aiutare.",
+        "answer": "dentista"
+    },
+    {
+        "riddle": "Una piccola perla, come fragile vetro, infilata lungo un filo d'erba.",
+        "answer": "rugiada"
+    },
+    {
+        "riddle": "Che cosa ha sei facce e ventuno occhi?",
+        "answer": "dado"
+    },
+    {
+        "riddle": "Ha mani ma non afferra. Ha denti ma non morde. Ha piedi ma sono freddi. Ha occhi ma non vede.",
+        "answer": "bambola"
+    },
+    {
+        "riddle": "Esisto nel regno del vero e nel regno del falso, ma mi sperimenti mentre ti giri e rigiri.",
+        "answer": "sogno"
+    },
+    {
+        "riddle": "La gente viene assunta per sbarazzarsi di me. Spesso mi nascondo sotto il tuo letto. Col tempo tornerò sempre. Mordimi e sei spacciato.",
+        "answer": "polvere"
+    },
+    {
+        "riddle": "Una scatola senza cerniere, senza serratura e senza chiave, eppure dentro c'è un tesoro dorato.",
+        "answer": "uovo"
+    },
+    {
+        "riddle": "È nella tua mano ma non puoi sentirlo. Solo tu e il tempo potete rivelarlo.",
+        "answer": "destino"
+    },
+    {
+        "riddle": "Ti rendo debole nei momenti peggiori. Ti tengo al sicuro, ti tengo bene. Faccio sudare le tue mani e raggelare il tuo cuore. Visito i deboli, ma raramente gli audaci.",
+        "answer": "paura"
+    },
+    {
+        "riddle": "Gorgoglio e rido e ti schizzo acqua in faccia. Non sono una signora e non porto merletti.",
+        "answer": "fontana"
+    },
+    {
+        "riddle": "Passa su tutte le colline e le valli. Morde forte ma non ingoia mai.",
+        "answer": "gelo"
+    },
+    {
+        "riddle": "Nato dalla terra, ma senza la sua forza. Plasmato dalla fiamma, ma senza il suo potere.",
+        "answer": "vetro"
+    },
+    {
+        "riddle": "Senza briglia né sella, a cavalcioni cavalco una cosa. E quelli che cavalco, grazie a me, benché quasi ciechi, riescono a vedere.",
+        "answer": "occhiali"
+    },
+    {
+        "riddle": "Faccio impazzire gli uomini per amor mio. Facilmente battuto, mai libero.",
+        "answer": "oro"
+    },
+    {
+        "riddle": "Il sole li cuoce, la mano li spezza, il piede li calpesta e la bocca li assaggia.",
+        "answer": "uva"
+    },
+    {
+        "riddle": "Così freddo, umido e buio questo posto. Ci staresti ben lontano, eppure chi lo occupa non si lamenta mai.",
+        "answer": "tomba"
+    },
+    {
+        "riddle": "Che cosa puoi mettere in una botte per renderla più leggera?",
+        "answer": "foro"
+    },
+    {
+        "riddle": "Ho due corpi, ma uniti in uno solo. Più sto fermo, più corro veloce.",
+        "answer": "clessidra"
+    },
+    {
+        "riddle": "Una pietra preziosa, chiara come un diamante. Cercala quando il sole è vicino all'orizzonte. Puoi camminare sull'acqua con il suo potere, ma prova a tenerla e svanirà in un'ora.",
+        "answer": "ghiaccio"
+    },
+    {
+        "riddle": "Ciò che la forza e la potenza non riescono ad aprire, io con un tocco gentile lo faccio. Molti in strada resterebbero fuori se non fossi un amico a portata di mano.",
+        "answer": "chiave"
+    },
+    {
+        "riddle": "Che cosa passa attraverso una porta ma non entra né esce mai?",
+        "answer": "buco della serratura"
+    },
+    {
+        "riddle": "Tetto di ferro, pareti di vetro, brucia e brucia e non cade mai.",
+        "answer": "lanterna"
+    },
+    {
+        "riddle": "Quale edificio ha più storie di tutti?",
+        "answer": "biblioteca"
+    },
+    {
+        "riddle": "A volte sono bianca e sono sempre sbagliata. Posso spezzare un cuore e ferire i forti.",
+        "answer": "bugia"
+    },
+    {
+        "riddle": "Che cosa può toccarti una sola volta e durarti tutta la vita?",
+        "answer": "amore"
+    },
+    {
+        "riddle": "Strumento del ladro, giocattolo della regina. Usata sempre per non essere visti. Segno di gioia, segno di dolore.",
+        "answer": "maschera"
+    },
+    {
+        "riddle": "Che cosa può riportare in vita i morti, farci piangere, farci ridere, farci giovani? Nasce in un istante eppure dura tutta la vita.",
+        "answer": "ricordo"
+    },
+    {
+        "riddle": "Sono un dio, sono un pianeta, misuro il calore.",
+        "answer": "mercurio"
+    },
+    {
+        "riddle": "Ha radici che nessuno vede, è più alto degli alberi. Su, su va, eppure non cresce mai.",
+        "answer": "montagna"
+    },
+    {
+        "riddle": "Mi nascondo ma la mia testa resta fuori.",
+        "answer": "chiodo"
+    },
+    {
+        "riddle": "In otto ci muoviamo avanti e indietro, per proteggere il nostro re dall'attacco nemico.",
+        "answer": "pedoni"
+    },
+    {
+        "riddle": "La creatura più strana che tu possa trovare: ha due occhi davanti e cento dietro.",
+        "answer": "pavone"
+    },
+    {
+        "riddle": "Bella e rotonda, risplendo di luce pallida, cresciuta nell'oscurità, delizia di ogni donna.",
+        "answer": "perla"
+    },
+    {
+        "riddle": "Di solito porto un vestito giallo. Di solito ho la testa scura. Lascio segni ovunque vado.",
+        "answer": "matita"
+    },
+    {
+        "riddle": "Che cosa fa un gran rumore quando cambia vestito, diventa più grande ma pesa di meno?",
+        "answer": "popcorn"
+    },
+    {
+        "riddle": "Ha sposato molte donne ma non si è mai sposato.",
+        "answer": "il prete"
+    },
+    {
+        "riddle": "Ho diviso l'uno in cinque. Sono il cerchio che pochi scorgono. Sono il sentiero che si spezza e si dona.",
+        "answer": "arcobaleno"
+    },
+    {
+        "riddle": "Rompilo ed è meglio, subito si fissa e diventa più difficile da rompere di nuovo.",
+        "answer": "record"
+    },
+    {
+        "riddle": "Non puoi vedere nient'altro quando mi guardi in faccia. Ti guarderò negli occhi e non mentirò mai.",
+        "answer": "riflesso"
+    },
+    {
+        "riddle": "Corro tra le colline, devio intorno alle montagne. Salto oltre i fiumi e striscio attraverso le foreste.",
+        "answer": "strada"
+    },
+    {
+        "riddle": "Che cosa può bruciare gli occhi, pungere la bocca, eppure essere mangiato?",
+        "answer": "sale"
+    },
+    {
+        "riddle": "I miei denti sono affilati, la mia schiena è dritta. Tagliare le cose è il mio destino.",
+        "answer": "sega"
+    },
+    {
+        "riddle": "Peso nella pancia, alberi sulla schiena. Viaggio veloce al mio posto, ma non ho piedi.",
+        "answer": "nave"
+    },
+    {
+        "riddle": "Il fratello di un mendicante andò per mare e annegò. Ma l'uomo che annegò non aveva fratelli. Chi era il mendicante per l'uomo che annegò?",
+        "answer": "sorella"
+    },
+    {
+        "riddle": "Se un uomo portasse il mio fardello, si spezzerebbe la schiena. Non sono ricca, ma lascio una scia d'argento.",
+        "answer": "lumaca"
+    },
+    {
+        "riddle": "Lo usi tra la testa e le dita dei piedi. Più lavora, più si assottiglia.",
+        "answer": "sapone"
+    },
+    {
+        "riddle": "Non posso essere toccata, vista o sentita. Eppure si trova in ognuno. La mia esistenza è sempre in discussione.",
+        "answer": "anima"
+    },
+    {
+        "riddle": "Sono piena di buchi, eppure sono piena d'acqua.",
+        "answer": "spugna"
+    },
+    {
+        "riddle": "Uno schiaccianoci in cima a un albero.",
+        "answer": "scoiattolo"
+    },
+    {
+        "riddle": "Che cosa gira il mondo intero e resta in un angolo?",
+        "answer": "francobollo"
+    },
+    {
+        "riddle": "Devi tenere questa cosa. Perderla colpirà chi ti è vicino. Perché una volta persa la tua, presto la perderanno anche gli altri.",
+        "answer": "calma"
+    },
+    {
+        "riddle": "Le montagne crolleranno e i templi cadranno. E nessun uomo può sopravvivere al suo richiamo infinito.",
+        "answer": "tempo"
+    },
+    {
+        "riddle": "Non sono mai stato, sono sempre da venire. Nessuno mi ha mai visto, né mai lo farà.",
+        "answer": "domani"
+    },
+    {
+        "riddle": "Che cosa si bagna quanto più asciuga?",
+        "answer": "asciugamano"
+    },
+    {
+        "riddle": "Chi è colui che rema veloce con quattro remi, ma non esce mai da sotto il suo tetto?",
+        "answer": "tartaruga"
+    },
+    {
+        "riddle": "Che cosa sale quando scende la pioggia?",
+        "answer": "ombrello"
+    },
+    {
+        "riddle": "Corro intorno alla città, ma non mi muovo mai.",
+        "answer": "muro"
+    },
+    {
+        "riddle": "Brillante come i diamanti, fragorosa come il tuono, mai ferma, una meraviglia.",
+        "answer": "cascata"
+    },
+    {
+        "riddle": "La luna è mio padre, il mare è mia madre. Ho un milione di fratelli. Muoio quando raggiungo la terra.",
+        "answer": "onda"
+    },
+    {
+        "riddle": "Senza voce grida, senza ali svolazza, senza denti morde, senza bocca mormora.",
+        "answer": "vento"
+    },
+    {
+        "riddle": "C'è un'invenzione antichissima, ancora usata in alcune parti del mondo, che permette di vedere attraverso i muri.",
+        "answer": "finestra"
+    },
+    {
+        "riddle": "Che cosa nessun uomo desidera, eppure nessun uomo vuole perdere?",
+        "answer": "lavoro"
+    },
+    {
+        "riddle": "Che cosa deve stare nel forno ma non può essere cotto? Cresce nel calore ma fugge la luce del giorno.",
+        "answer": "lievito"
+    }
+]

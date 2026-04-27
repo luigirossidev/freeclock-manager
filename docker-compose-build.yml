@@ -1,0 +1,44 @@
+services:
+  freeclock-manager_webapp:
+    build:
+      context: .
+      dockerfile: ./docker-prod/Dockerfile
+      args:
+        USER_ID: '${UID:-33}'
+        GROUP_ID: '${GID:-33}'
+    image: luigirossidev/freeclock-manager
+    restart: unless-stopped
+    ports:
+      - '${APP_PORT:-8080}:8080'
+    environment:
+      AUTORUN_ENABLED: "true"
+      COMPOSER_ALLOW_SUPERUSER: 1
+      PHP_MEMORY_LIMIT: 1024M
+      PHP_OPCACHE_ENABLE: 1
+      PHP_SESSION_COOKIE_SECURE: 0
+      PHP_POST_MAX_SIZE: "50M"
+      PHP_UPLOAD_MAX_FILE_SIZE: "50M"
+      SSL_MODE: "off"
+      PHP_FPM_POOL_NAME: "freeclock-manager_core"
+    volumes:
+      - .env:/var/www/html/.env
+      - 'freeclock-storage:/var/www/html/storage'
+      - 'freeclock-data:/var/www/html/database/data'
+    networks:
+      - freeclock_network
+    healthcheck:
+      test: [ "CMD-SHELL", "curl -s http://127.0.0.1:8080/healthcheck | grep -q OK || exit 1" ]
+      start_period: 5s
+      interval: 10s
+      timeout: 10s
+      retries: 3
+
+networks:
+  freeclock_network:
+    driver: bridge
+volumes:
+  freeclock-data:
+    driver: local
+  freeclock-storage:
+    driver: local
+
