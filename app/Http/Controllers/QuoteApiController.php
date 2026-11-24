@@ -33,6 +33,12 @@ class QuoteApiController extends Controller
                 ->first();
 
             if (!$quote) {
+                // Tutti gli elementi sono gia' stati usati quest'anno: invece di
+                // restituire 404 ricomincia il giro dal meno recente.
+                $quote = $this->leastRecentlyUsedQuote($lang);
+            }
+
+            if (!$quote) {
                 return response()->json(['message' => 'No quotes available for this language'], 404);
             }
 
@@ -45,5 +51,21 @@ class QuoteApiController extends Controller
         }else {
             return new DailyQuoteApiResource($quoteOfTheDay->quote);
         }
+    }
+
+    /**
+     * Quote della lingua indicata usato meno di recente come elemento del giorno.
+     */
+    private function leastRecentlyUsedQuote(string $lang): ?Quote
+    {
+        $lastUse = DailyQuote::selectRaw('quote_id, MAX(day) AS last_day')
+            ->where('locale', $lang)
+            ->groupBy('quote_id');
+
+        return Quote::select('quotes.*')
+            ->whereHas('category', fn ($q) => $q->where('locale', $lang))
+            ->leftJoinSub($lastUse, 'last_use', 'last_use.quote_id', '=', 'quotes.id')
+            ->orderBy('last_use.last_day')
+            ->first();
     }
 }

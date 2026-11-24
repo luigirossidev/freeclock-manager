@@ -33,6 +33,12 @@ class RiddleApiController extends Controller
                 ->first();
 
             if (!$riddle) {
+                // Tutti gli elementi sono gia' stati usati quest'anno: invece di
+                // restituire 404 ricomincia il giro dal meno recente.
+                $riddle = $this->leastRecentlyUsedRiddle($lang);
+            }
+
+            if (!$riddle) {
                 return response()->json(['message' => 'No riddles available for this language'], 404);
             }
 
@@ -45,5 +51,21 @@ class RiddleApiController extends Controller
         }else {
             return new DailyRiddleApiResource($riddleOfTheDay->riddle);
         }
+    }
+
+    /**
+     * Riddle della lingua indicata usato meno di recente come elemento del giorno.
+     */
+    private function leastRecentlyUsedRiddle(string $lang): ?Riddle
+    {
+        $lastUse = DailyRiddle::selectRaw('riddle_id, MAX(day) AS last_day')
+            ->where('locale', $lang)
+            ->groupBy('riddle_id');
+
+        return Riddle::select('riddles.*')
+            ->whereHas('category', fn ($q) => $q->where('locale', $lang))
+            ->leftJoinSub($lastUse, 'last_use', 'last_use.riddle_id', '=', 'riddles.id')
+            ->orderBy('last_use.last_day')
+            ->first();
     }
 }
